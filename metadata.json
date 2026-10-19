@@ -1,0 +1,8 @@
+{
+  "name": "AccessiRead AI - Accessible Document Understanding & TTS",
+  "description": "Assistive document understanding, OCR extraction, dyslexia-friendly reader, synchronized text-to-speech, and research evaluation suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
